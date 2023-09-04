@@ -34,10 +34,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvez13913&" alt="parvez13913" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvez13913&show_icons=true&locale=en&layout=compact" alt="parvez13913" /></p>
 </div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+# 🐍 My Contributions 🐍
+<div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
