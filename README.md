@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **parvezz13913@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
 <a href="https://twitter.com/parvez13913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parvez13913" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parvez13913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvez13913" height="30" width="40" /></a>
