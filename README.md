@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvez13913&label=Profile%20views&color=0e75b6&style=flat" alt="parvez13913" /> </p>
 
 <p align="left"> <a href="https://twitter.com/parvez13913" target="blank"><img src="https://img.shields.io/twitter/follow/parvez13913?logo=twitter&style=for-the-badge" alt="parvez13913" /></a> </p>
-<div align="center">
+
 - 🌱 I’m currently learning **PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://parvez-rahman-13913.netlify.app/](https://parvez-rahman-13913.netlify.app/)
@@ -13,7 +13,6 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **parvezz13913@gmail.com**
- </div>
 
 # Connect with me:
 <p align="left">
