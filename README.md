@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://parvez-rahman-13913.netlify.app/](https://parvez-rahman-13913.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Web site](https://parvez-rahman-13913.netlify.app)
 
 - 💬 Ask me about **MERN**
 
