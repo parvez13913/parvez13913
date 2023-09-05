@@ -35,7 +35,7 @@
 <div align=left>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913" />
     <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=parvez13913&count_private=true&show_icons=true&theme=transparent" alt="parvez13913"  />
+  <img width=390 src="https://streak-stats.demolab.com/?user=parvez13913&theme=transparent" alt="parvez13913"  />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913" />
 </div>
