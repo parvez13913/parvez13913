@@ -26,6 +26,7 @@
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,redux,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </div>
 
 # 📊 GitHub Stats:
