@@ -33,8 +33,9 @@
  
 
 <div align=left>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913" /> <br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913"  /> <br>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913" />
+    <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913"  />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913" />
 </div>
