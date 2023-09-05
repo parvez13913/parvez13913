@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parvez+Rahman!+👋;" />
 </h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvez13913&label=Profile%20views&color=0e75b6&style=flat" alt="parvez13913" /> </p>
 
 <p align="left"> <a href="https://twitter.com/parvez13913" target="blank"><img src="https://img.shields.io/twitter/follow/parvez13913?logo=twitter&style=for-the-badge" alt="parvez13913" /></a> </p>
