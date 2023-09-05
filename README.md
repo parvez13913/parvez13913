@@ -26,7 +26,7 @@
 # 💻 Tech Stack:
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </div>
 
 # 📊 GitHub Stats:
