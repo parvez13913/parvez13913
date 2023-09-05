@@ -37,6 +37,6 @@
     <br/>
   <img width=390 src="https://streak-stats.demolab.com/?user=parvez13913&theme=transparent" alt="parvez13913"  />
   <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&layout=donut&theme=transparent" alt="parvez13913" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&layout=donut&theme=transparent" alt="parvez13913" />
 </div>
  
