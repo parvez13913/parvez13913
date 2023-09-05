@@ -42,4 +42,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://parvez13913.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
