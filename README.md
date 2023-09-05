@@ -24,8 +24,8 @@
 
 # 💻 Tech Stack
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,redux,firebase,git,vscode" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,redux,firebase,git" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,aws,docker" />
 </div>
 
