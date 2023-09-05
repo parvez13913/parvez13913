@@ -40,6 +40,3 @@
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&layout=donut&theme=transparent" alt="parvez13913" />
 </div>
-
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
