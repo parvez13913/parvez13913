@@ -27,7 +27,7 @@
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,redux,firebase,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,aws,docker,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,aws,docker" />
 </div>
 
 # 📊 GitHub Stats
