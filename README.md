@@ -38,6 +38,5 @@
     <br/>
   <img width=390 src="https://streak-stats.demolab.com/?user=parvez13913&theme=transparent" alt="parvez13913"  />
   <br/>
-<!--   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&layout=pie" alt="parvez13913" /> -->
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&theme=transparent" alt="parvez13913" />
 </div>
