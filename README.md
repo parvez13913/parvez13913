@@ -25,18 +25,11 @@
 
 # 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=parvez13913&theme=react&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parvez13913&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 # 📊 GitHub Stats
  
-
-<div align=left>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=parvez13913&show_icons=true&theme=transparent" alt="parvez13913" />
-    <br/>
-  <img width=390 src="https://streak-stats.demolab.com/?user=parvez13913&theme=transparent" alt="parvez13913"  />
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&theme=transparent" alt="parvez13913" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=parvez13913&theme=react&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parvez13913&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
