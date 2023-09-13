@@ -24,11 +24,11 @@
 <hr/>
 
 # 💻 Tech Stack
-<div>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,redux,firebase,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,jest,aws,docker" />
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=parvez13913&theme=react&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parvez13913&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez13913&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 📊 GitHub Stats
  
