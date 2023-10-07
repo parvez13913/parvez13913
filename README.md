@@ -27,7 +27,7 @@
 
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,redux,react native,firebase,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,redux,native,firebase,git" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,jest,aws,docker" />
 </div>
 
