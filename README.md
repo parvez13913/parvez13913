@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/parvez13913" target="blank"><img src="https://img.shields.io/twitter/follow/parvez13913?logo=twitter&style=for-the-badge" alt="parvez13913" /></a> </p>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Redis**
 
 - 👨‍💻 All of my projects are available at [🌐 My Portfolio Web site](https://parvez-rahman-13913.netlify.app)
 
