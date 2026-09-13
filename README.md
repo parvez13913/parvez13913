@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Redis**
 
-- 👨‍💻 All of my projects are available at [🌐 My Portfolio Web site]([https://parvez-rahman-13913.netlify.app](https://portfolio-nine-pearl-n85007zh5o.vercel.app/))
+- 👨‍💻 All of my projects are available at [🌐 My Portfolio Web site]([https://portfolio-nine-pearl-n85007zh5o.vercel.app/])
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **parvezz13913@gmail.com**
+- 📫 How to reach me: **parvezz13913@gmail.com**
 
 # 🌐 Connect with me
 <div align="left">
