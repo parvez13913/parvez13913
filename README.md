@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redis**
 
-- 👨‍💻 All of my projects are available at [🌐 My Portfolio Web site]([https://portfolio-nine-pearl-n85007zh5o.vercel.app/])
+- 👨‍💻 All of my projects are available at [🌐 My Portfolio Web site](https://portfolio-nine-pearl-n85007zh5o.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
